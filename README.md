@@ -3,9 +3,12 @@
 DESCRIPTION PLACEHOLDER
 
 ## What it does
+I do not know what this project does but it does help me to understand GitHub
+
 
 FEATURES PLACEHOLDER
 
+Community starter kit :)
 ## Getting started
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
